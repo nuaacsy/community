@@ -1,0 +1,5 @@
+com\nowcoder\community\LogTests.class
+com\nowcoder\community\MailTests.class
+com\nowcoder\community\CommunityApplicationTests.class
+com\nowcoder\community\MapperTests.class
+com\nowcoder\community\SensitiveTest.class
